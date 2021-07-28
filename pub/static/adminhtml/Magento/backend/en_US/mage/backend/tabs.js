@@ -1,1 +1,0 @@
-/var/www/lib/web/mage/backend/tabs.js
